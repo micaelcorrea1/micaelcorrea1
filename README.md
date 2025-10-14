@@ -1,5 +1,5 @@
 # Olá! Sou o Micael. Seja bem-vindo(a) ao meu perfil
-- 📚 | Cursando Análise e Desenvolvimento de Sistemas 
+- 📚 | Engenharia da computação 
 - 💻 | Estudando Python e SQL no momento
 - 📝 | Competências:
 
